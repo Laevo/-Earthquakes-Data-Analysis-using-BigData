@@ -1,0 +1,77 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2016-05-03T23:06:00.810Z,-16.2673,167.2509,10,5,mb,,83,0.816,1.14,us,us10005dif,2016-05-03T23:26:38.171Z,"24km SW of Lakatoro, Vanuatu",earthquake,6.4,1.9,0.093,37,reviewed,us,us
+2016-05-03T22:32:35.510Z,-1.9026,99.7135,35,4.5,mb,,126,2.58,0.64,us,us10005dic,2016-05-03T22:50:35.992Z,"65km ESE of Muara Siberut, Indonesia",earthquake,8.4,2,0.102,28,reviewed,us,us
+2016-05-03T07:56:03.150Z,13.8062,145.0735,115.69,4.5,mb,,88,0.293,0.61,us,us10005d9v,2016-05-03T08:29:51.110Z,"35km NNE of Yigo Village, Guam",earthquake,10.8,6.7,0.078,48,reviewed,us,us
+2016-05-03T07:46:56.590Z,13.7118,-91.2144,63,4.7,mb,,135,0.932,1.11,us,us10005d9n,2016-05-03T18:46:26.023Z,"44km SSW of La Gomera, Guatemala",earthquake,7.8,7.9,0.068,65,reviewed,us,us
+2016-05-03T07:08:12.750Z,-52.4417,12.8594,14.29,4.8,mb,,109,20.516,0.98,us,us10005da1,2016-05-03T09:17:05.443Z,"Southwest of Africa",earthquake,17.8,2.3,0.196,8,reviewed,us,us
+2016-05-03T02:35:00.260Z,-55.9167,-143.9272,10,5.2,mb,,159,27.693,0.69,us,us10005d7k,2016-05-03T15:02:57.040Z,"Pacific-Antarctic Ridge",earthquake,7.8,1.9,0.088,43,reviewed,us,us
+2016-05-03T00:00:51.750Z,43.6879,147.5093,61.9,5.6,mwb,,20,3.579,0.71,us,us10005d6s,2016-05-03T15:08:10.040Z,"64km E of Shikotan, Russia",earthquake,6.9,3.8,0.05,38,reviewed,us,us
+2016-05-02T21:49:38.230Z,13.5776,-91.3198,35,4.7,mb,,134,1.009,1.48,us,us10005d61,2016-05-02T22:19:23.824Z,"63km SSW of La Gomera, Guatemala",earthquake,6.6,2,0.03,338,reviewed,us,us
+2016-05-02T14:29:00.410Z,24.1635,121.7386,12.06,4.7,mb,,52,0.131,0.54,us,us10005d0w,2016-05-02T17:18:20.994Z,"24km NNE of Hualian, Taiwan",earthquake,6.8,4.6,0.063,77,reviewed,us,us
+2016-05-02T13:38:44.000Z,59.4153,-144.725,30.2,4.9,ml,,,,0.63,ak,ak13509047,2016-05-02T20:08:54.040Z,"87km E of Middleton Island, Alaska",earthquake,0.5,0.2,,,reviewed,ak,ak
+2016-05-02T12:17:16.590Z,-6.0956,-107.2014,15.15,5.1,mb,,145,17.718,1.11,us,us10005d0b,2016-05-03T01:56:55.000Z,"Central East Pacific Rise",earthquake,14.2,4.8,0.03,367,reviewed,us,us
+2016-05-02T11:50:33.060Z,13.0095,-88.72,74.68,4.8,mb,,110,0.837,1.06,us,us10005d03,2016-05-02T12:08:48.309Z,"35km SSW of Puerto El Triunfo, El Salvador",earthquake,6.9,8.1,0.031,314,reviewed,us,us
+2016-05-02T08:10:19.400Z,-4.58,152.4727,98.03,5.1,mb,,44,0.494,0.94,us,us10005czi,2016-05-02T08:31:24.616Z,"34km SE of Kokopo, Papua New Guinea",earthquake,8.7,5.1,0.042,185,reviewed,us,us
+2016-05-02T07:37:50.750Z,-59.9222,-25.831,35,5.1,mb,,69,8.093,0.8,us,us10005czb,2016-05-02T08:00:15.423Z,"106km SSE of Bristol Island, South Sandwich Islands",earthquake,10.6,2,0.07,66,reviewed,us,us
+2016-05-02T07:26:52.550Z,39.8791,144.9406,31.21,4.9,mb,,134,2.525,0.87,us,us10005cz6,2016-05-02T07:53:57.056Z,"257km E of Miyako, Japan",earthquake,8.4,5.5,0.033,281,reviewed,us,us
+2016-05-02T06:58:05.540Z,59.8067,-29.9734,10,4.6,mb,,83,6.387,0.63,us,us10005cz0,2016-05-02T08:54:15.692Z,"Reykjanes Ridge",earthquake,9.6,1.9,0.051,116,reviewed,us,us
+2016-05-02T06:51:37.400Z,-3.182,146.065,10,4.8,mb,,73,1.723,0.72,us,us10005cyy,2016-05-02T07:09:28.096Z,"185km SW of Lorengau, Papua New Guinea",earthquake,9.1,1.9,0.121,21,reviewed,us,us
+2016-05-02T05:24:44.600Z,11.8715,143.3516,25.98,5.3,mb,,91,2.259,0.9,us,us10005cyc,2016-05-02T05:44:36.290Z,"210km SW of Merizo Village, Guam",earthquake,9.8,5.4,0.032,318,reviewed,us,us
+2016-05-02T04:21:25.410Z,-5.0928,104.4715,132.67,5.9,mb,,65,1.676,1.39,us,us10005cxc,2016-05-02T17:25:39.040Z,"38km NW of Pulaupanggung, Indonesia",earthquake,7.1,6,0.044,189,reviewed,us,us
+2016-05-02T02:03:31.640Z,-32.7455,-69.1665,39.75,4.5,mb,,44,1.119,1.03,us,us10005cx5,2016-05-02T02:55:05.794Z,"35km WNW of Mendoza, Argentina",earthquake,4.7,9.5,0.131,17,reviewed,us,us
+2016-05-02T00:26:47.860Z,-37.3383,177.3698,151.07,5.1,mb,,42,0.778,1.16,us,us10005cwv,2016-05-02T04:54:25.090Z,"76km NNE of Whakatane, New Zealand",earthquake,6.1,4.5,0.062,83,reviewed,us,us
+2016-05-01T20:38:47.000Z,60.1403,-152.905,119.4,4.7,ml,,,,0.8,ak,ak13507245,2016-05-01T21:27:37.703Z,"45km SSW of Redoubt Volcano, Alaska",earthquake,0.3,0.4,,,reviewed,ak,ak
+2016-05-01T18:56:02.490Z,-20.7272,170.0408,35,5.1,mb,,105,2.021,1.22,us,us10005cvg,2016-05-01T19:44:22.694Z,"153km SSE of Isangel, Vanuatu",earthquake,10.4,1.9,0.078,53,reviewed,us,us
+2016-05-01T11:25:56.890Z,28.9103,142.8543,2.16,4.9,mb,,124,1.902,0.72,us,us10005cu1,2016-05-01T11:43:53.358Z,"211km NNE of Chichi-shima, Japan",earthquake,7.3,4.8,0.075,56,reviewed,us,us
+2016-05-01T10:35:34.460Z,18.1597,-61.5886,20.08,4.8,mb,,71,0.523,0.89,us,us10005ctx,2016-05-01T10:51:31.139Z,"63km NNE of Codrington, Barbuda",earthquake,6.4,4.1,0.037,222,reviewed,us,us
+2016-05-01T07:22:50.720Z,7.6504,125.9492,46.11,4.8,mb,,61,0.683,0.79,us,us10005cts,2016-05-01T08:01:07.848Z,"3km NW of Linoan, Philippines",earthquake,8,7.7,0.093,36,reviewed,us,us
+2016-05-01T06:16:12.750Z,36.4178,70.746,115.67,4.5,mb,,75,0.719,1.17,us,us10005cth,2016-05-01T06:44:17.956Z,"43km N of `Alaqahdari-ye Kiran wa Munjan, Afghanistan",earthquake,5.7,4.4,0.09,36,reviewed,us,us
+2016-05-01T02:35:35.610Z,-6.2502,154.5815,75.55,4.8,mb,,68,3.159,0.71,us,us10005csw,2016-05-01T02:55:08.611Z,"100km W of Panguna, Papua New Guinea",earthquake,10.2,8.4,0.102,35,reviewed,us,us
+2016-05-01T01:42:54.490Z,-23.6395,179.2441,542.67,4.9,mb,,45,5.97,0.97,us,us10005csm,2016-05-01T02:02:33.999Z,"South of the Fiji Islands",earthquake,10.5,7.7,0.047,144,reviewed,us,us
+2016-04-30T22:46:56.930Z,24.1956,121.7619,10.62,4.5,mb,,72,0.154,0.51,us,us10005cry,2016-04-30T23:04:15.967Z,"29km NNE of Hualian, Taiwan",earthquake,3.6,5.2,0.087,39,reviewed,us,us
+2016-04-30T20:30:39.900Z,-16.272,167.5239,10,5.2,mb,,143,0.876,0.83,us,us10005crg,2016-04-30T21:12:11.328Z,"20km SSE of Lakatoro, Vanuatu",earthquake,6.8,1.8,0.077,56,reviewed,us,us
+2016-04-30T17:38:44.160Z,-6.3387,103.3796,36.2,4.6,mb,,74,2.01,1.28,us,us10005cr1,2016-05-03T15:04:15.040Z,"132km SSW of Biha, Indonesia",earthquake,7.1,7.6,0.081,45,reviewed,us,us
+2016-04-30T16:11:45.570Z,6.6717,-73.0017,162.14,4.5,mb,,69,2.239,0.95,us,us10005cqm,2016-04-30T16:31:33.863Z,"3km SE of Aratoca, Colombia",earthquake,4.4,8.1,0.079,46,reviewed,us,us
+2016-04-30T09:26:30.130Z,-16.2624,167.2051,12.13,5.1,mb,,61,0.81,1.17,us,us10005cpm,2016-04-30T09:44:35.030Z,"27km SW of Lakatoro, Vanuatu",earthquake,6.7,4.8,0.084,46,reviewed,us,us
+2016-04-30T08:45:57.870Z,-16.2868,167.2167,7.25,4.7,mb,,82,0.835,0.78,us,us10005cph,2016-04-30T09:23:10.303Z,"28km SW of Lakatoro, Vanuatu",earthquake,4.5,5,0.104,28,reviewed,us,us
+2016-04-30T08:35:42.380Z,-16.3056,167.1879,4.77,6,mwp,,36,0.853,1.09,us,us10005cpd,2016-04-30T22:56:40.000Z,"32km SW of Lakatoro, Vanuatu",earthquake,6.4,4.5,0.059,33,reviewed,us,us
+2016-04-30T07:54:38.050Z,-55.7216,-27.768,40.93,4.9,mb,,196,5.222,0.57,us,us10005cp5,2016-04-30T09:32:49.419Z,"114km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,13.5,10.7,0.097,33,reviewed,us,us
+2016-04-30T04:38:28.190Z,-16.2581,167.1635,10,5,mb,,61,0.807,1.3,us,us10005cn8,2016-04-30T04:58:05.301Z,"31km SW of Norsup, Vanuatu",earthquake,5.4,1.7,0.081,48,reviewed,us,us
+2016-04-30T02:59:47.930Z,-4.6129,134.3441,26.4,4.6,mb,,171,2.683,0.96,us,us10005cmx,2016-04-30T03:17:59.571Z,"128km N of Dobo, Indonesia",earthquake,6.1,8.4,0.158,13,reviewed,us,us
+2016-04-30T02:49:06.750Z,-29.7778,-72.0338,10.98,4.6,mb,,160,0.705,0.84,us,us10005cmu,2016-04-30T03:02:54.337Z,"69km WNW of Coquimbo, Chile",earthquake,6,5.2,0.151,14,reviewed,us,us
+2016-04-30T00:36:03.170Z,-31.2823,-13.582,10,5.4,mwc,,74,5.866,0.87,us,us10005cm7,2016-05-01T00:04:47.876Z,"Southern Mid-Atlantic Ridge",earthquake,7.4,1.8,,,reviewed,us,gcmt
+2016-04-29T23:36:29.630Z,34.3713,26.5447,29.98,4.5,mwr,,117,1.277,0.75,us,us10005clu,2016-04-30T00:30:30.782Z,"91km SE of Makry Gialos, Greece",earthquake,7,5.6,0.08,15,reviewed,us,us
+2016-04-29T22:50:14.900Z,-16.1348,166.94,19.33,4.8,mb,,80,0.729,0.71,us,us10005cl9,2016-04-30T04:30:17.040Z,"48km W of Norsup, Vanuatu",earthquake,6.9,4.8,0.1,31,reviewed,us,us
+2016-04-29T22:09:02.260Z,-16.2439,167.194,35,5,mb,,79,0.792,0.75,us,us10005ckw,2016-04-30T04:21:36.481Z,"27km WSW of Lakatoro, Vanuatu",earthquake,6.6,1.9,0.067,70,reviewed,us,us
+2016-04-29T20:07:18.490Z,-15.0602,-173.3843,35,4.8,mb,,85,1.931,0.56,us,us10005cis,2016-04-30T16:57:48.950Z,"105km NNE of Hihifo, Tonga",earthquake,8.9,2,0.058,90,reviewed,us,us
+2016-04-29T17:37:54.070Z,6.8066,-82.6911,9.34,4.6,mwr,,80,1.711,1.2,us,us10005cgz,2016-04-30T15:54:32.080Z,"137km S of Punta de Burica, Panama",earthquake,6.3,5,0.06,27,reviewed,us,us
+2016-04-29T17:35:18.990Z,-7.2631,105.8319,46.19,4.7,mb,,57,3.202,1.64,us,us10005ch4,2016-04-30T15:40:04.143Z,"47km S of Binuangeun, Indonesia",earthquake,6.1,7.3,0.096,33,reviewed,us,us
+2016-04-29T08:17:34.000Z,58.9725,-152.342,46.9,4.9,ml,,,,0.67,ak,ak13503280,2016-04-29T09:02:07.339Z,"87km SSW of Homer, Alaska",earthquake,0.5,0.5,,,reviewed,ak,ak
+2016-04-29T06:33:18.780Z,-15.4625,-73.303,79.43,4.7,mb,,156,4.049,0.82,us,us10005cdt,2016-04-29T06:48:23.093Z,"70km SE of Coracora, Peru",earthquake,12.4,11.9,0.079,49,reviewed,us,us
+2016-04-29T04:36:36.870Z,39.7473,74.0788,10,4.7,mb,,58,1.776,1.44,us,us10005ccx,2016-04-29T05:10:48.920Z,"71km E of Sary-Tash, Kyrgyzstan",earthquake,6.2,1.9,0.064,74,reviewed,us,us
+2016-04-29T01:33:38.940Z,10.2705,-103.715,10,6.6,mww,,62,8.803,0.94,us,us10005cc4,2016-04-29T16:09:17.040Z,"Northern East Pacific Rise",earthquake,9.1,1.7,,,reviewed,us,us
+2016-04-29T01:01:56.290Z,-16.1004,167.2661,35,4.9,mb,,60,0.652,0.88,us,us10005cc1,2016-04-29T01:18:25.518Z,"13km WSW of Norsup, Vanuatu",earthquake,6,2,0.12,22,reviewed,us,us
+2016-04-29T00:52:47.490Z,-16.1872,167.0266,35,4.8,mb,,60,0.755,1.03,us,us10005cbj,2016-04-30T04:13:44.040Z,"40km WSW of Norsup, Vanuatu",earthquake,7.3,2,0.091,37,reviewed,us,us
+2016-04-28T22:52:03.490Z,14.1377,145.3089,124.54,4.7,mb,,98,0.692,0.57,us,us10005cax,2016-04-29T04:36:38.241Z,"11km E of Rota, Northern Mariana Islands",earthquake,8,6.1,0.046,147,reviewed,us,us
+2016-04-28T22:23:18.790Z,-37.0975,-111.7044,10,4.7,mb,,82,10.092,0.54,us,us10005caz,2016-04-30T03:47:13.776Z,"Southern East Pacific Rise",earthquake,8,1.9,0.142,15,reviewed,us,us
+2016-04-28T20:15:10.520Z,-7.5267,128.2282,155.11,4.7,mb,,87,3.076,0.73,us,us10005c99,2016-04-28T22:43:48.214Z,"Kepulauan Barat Daya, Indonesia",earthquake,10,9,0.087,40,reviewed,us,us
+2016-04-28T20:14:47.800Z,-36.21,-97.1107,10,4.7,mb,,148,19.883,0.61,us,us10005c9b,2016-04-28T22:17:32.784Z,"West Chile Rise",earthquake,9.1,1.9,0.055,102,reviewed,us,us
+2016-04-28T19:33:24.420Z,-16.0743,167.3926,27.17,7,mww,,14,0.649,1.29,us,us10005c88,2016-04-29T18:14:11.373Z,"1km SE of Norsup, Vanuatu",earthquake,5.9,3.3,,,reviewed,us,us
+2016-04-28T13:49:00.940Z,9.1056,126.3148,93.56,4.6,mb,,91,2.149,1.04,us,us10005c65,2016-04-28T14:03:05.922Z,"13km ENE of Tandag, Philippines",earthquake,11.7,8.3,0.119,21,reviewed,us,us
+2016-04-28T08:25:35.210Z,12.7814,126.1618,10,4.5,mb,,137,10.691,0.58,us,us10005c4r,2016-04-28T09:16:46.118Z,"96km NE of Alugan, Philippines",earthquake,11.1,1.9,0.118,21,reviewed,us,us
+2016-04-28T08:03:36.310Z,-28.0421,-66.7499,164.33,4.5,mb,,48,2.433,1.22,us,us10005c4j,2016-04-28T08:32:58.886Z,"51km SSE of Belen, Argentina",earthquake,7.9,10.5,0.163,11,reviewed,us,us
+2016-04-28T07:12:20.110Z,41.1177,142.644,49.17,4.5,mb,,143,0.975,0.63,us,us10005c41,2016-04-28T09:33:42.603Z,"118km NE of Hachinohe, Japan",earthquake,6.6,7.6,0.083,43,reviewed,us,us
+2016-04-28T07:10:52.630Z,-19.7397,-66.8245,246.43,4.5,mb,,49,2.227,1.07,us,us10005c40,2016-04-28T07:33:23.193Z,"63km N of Colchani, Bolivia",earthquake,8.1,7.5,0.067,64,reviewed,us,us
+2016-04-28T06:30:52.900Z,32.7629,130.4709,10,4.8,mb,,90,0.496,1.02,us,us10005c3n,2016-04-28T06:48:20.021Z,"10km ESE of Shimabara, Japan",earthquake,5.3,1.8,0.053,110,reviewed,us,us
+2016-04-28T01:17:13.250Z,-6.076,154.9688,128.1,5.6,mb,,36,3.363,0.75,us,us10005c29,2016-04-28T15:31:28.000Z,"62km WNW of Panguna, Papua New Guinea",earthquake,8.1,7.1,0.03,379,reviewed,us,us
+2016-04-27T23:50:47.980Z,-3.179,140.9168,10,4.6,mb,,55,6.54,0.94,us,us10005c1y,2016-04-28T00:08:34.625Z,"70km SSE of Abepura, Indonesia",earthquake,10.5,1.9,0.094,34,reviewed,us,us
+2016-04-27T18:19:05.050Z,23.3095,121.3851,10,5,mb,,38,0.115,1.13,us,us10005bzz,2016-04-28T18:32:03.000Z,"65km NNE of Taitung City, Taiwan",earthquake,5.4,1.8,0.042,180,reviewed,us,us
+2016-04-27T17:14:14.390Z,-1.1167,-13.8256,10,4.9,mb,,63,6.791,1.19,us,us10005bzj,2016-04-27T21:06:02.582Z,"North of Ascension Island",earthquake,10.7,1.9,0.1,31,reviewed,us,us
+2016-04-27T15:27:38.500Z,24.1891,121.7766,11.72,4.7,mwr,,51,0.166,0.91,us,us10005bxz,2016-04-28T20:56:32.011Z,"29km NE of Hualian, Taiwan",earthquake,3,4.5,0.083,14,reviewed,us,us
+2016-04-27T15:17:13.770Z,24.2179,121.8245,8.31,5.3,mb,,52,0.214,0.95,us,us10005bxy,2016-04-28T15:20:14.040Z,"34km NE of Hualian, Taiwan",earthquake,4.3,3.6,0.05,136,reviewed,us,us
+2016-04-27T14:07:45.280Z,-6.224,129.6829,124.87,4.6,mb,,106,14.22,1.14,us,us10005bxp,2016-04-27T14:37:19.724Z,"262km NW of Saumlaki, Indonesia",earthquake,11.6,6.5,0.111,24,reviewed,us,us
+2016-04-27T12:51:22.990Z,14.5722,-92.9671,35,5.8,mb,,114,1.232,1.71,us,us10005bxb,2016-04-28T01:56:31.000Z,"61km WSW of Puerto Madero, Mexico",earthquake,6,1.9,0.03,446,reviewed,us,us
+2016-04-27T10:13:50.690Z,-24.1621,-66.8362,176.94,5.2,mb,,25,1.723,1.01,us,us10005bwt,2016-04-27T10:29:15.600Z,"52km W of San Antonio de los Cobres, Argentina",earthquake,4.5,6.2,0.052,123,reviewed,us,us
+2016-04-27T02:28:53.860Z,10.608,-86.9865,10,4.5,mb,,135,2.025,1.08,us,us10005bup,2016-04-27T02:49:13.857Z,"140km SSW of Masachapa, Nicaragua",earthquake,7.7,1.9,0.055,96,reviewed,us,us
+2016-04-27T02:16:52.330Z,-31.6238,-67.6428,20.4,5,mb,,34,0.892,0.94,us,us10005buk,2016-04-27T02:47:28.579Z,"60km E of Caucete, Argentina",earthquake,5.6,5,0.045,155,reviewed,us,us
+2016-04-27T02:04:03.820Z,-52.6232,25.8758,10,5.6,mb,,40,17.913,0.72,us,us10005bug,2016-04-27T14:59:22.000Z,"South of Africa",earthquake,11,1.9,0.068,76,reviewed,us,us

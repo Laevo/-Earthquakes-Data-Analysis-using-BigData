@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.7.0/nv.d3.min.css" rel="stylesheet" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.7.0/nv.d3.min.js"></script>
+    </head>
+    <body>
+        
+    <div id="scatterchart"><svg style="width:1400px;height:800px;"></svg></div>
+
+
+    <script>
+
+
+
+            data_scatterchart=[{"values": [{"y": -122.8454971, "x": 38.818832399999998}, {"y": -122.8273315, "x": 38.8390007}, {"y": -122.8404999, "x": 38.831001299999997}], "key": "Centroid_1", "yAxis": "1"}, {"values": [{"y": -147.72389999999999, "x": 63.413800000000002}, {"y": -151.42939999999999, "x": 63.086199999999998}, {"y": -149.5787, "x": 63.432699999999997}], "key": "Centroid_2", "yAxis": "1"}, {"values": [{"y": -119.045, "x": 34.737499999999997}, {"y": -118.78399659999999, "x": 37.520668000000001}, {"y": -113.9872, "x": 36.495899999999999}, {"y": -117.43000000000001, "x": 35.610500000000002}], "key": "Centroid_3", "yAxis": "1"}, {"values": [{"y": -122.83777616666667, "x": 38.829611466666663, "shape": "cross", "size": "20"}, {"y": -149.57733333333331, "x": 63.310900000000004, "shape": "cross", "size": "20"}, {"y": -117.31154915, "x": 36.091141999999998, "shape": "cross", "size": "20"}], "key": "Centroids", "yAxis": "1"}];
+
+
+        nv.addGraph(function() {
+        var chart = nv.models.scatterChart();
+
+        chart.margin({top: 30, right: 60, bottom: 20, left: 60});
+
+        var datum = data_scatterchart;
+
+
+
+                chart.xAxis
+                .tickFormat(d3.format(',.02f'));
+            chart.yAxis
+                .tickFormat(d3.format(',.02f'));
+
+
+
+          chart.showLegend(true);
+
+
+    
+
+        
+
+
+
+
+    chart
+        .showDistX(true)
+        .showDistY(true)
+        .color(d3.scale.category10().range());
+
+            d3.select('#scatterchart svg')
+            .datum(datum)
+            .transition().duration(500)
+            .attr('width', 1400)
+            .attr('height', 800)
+            .call(chart);
+
+
+        });
+
+
+
+    </script>
+
+    </body>
+</html>

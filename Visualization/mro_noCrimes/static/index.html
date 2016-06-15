@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.7.0/nv.d3.min.css" rel="stylesheet" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.7.0/nv.d3.min.js"></script>
+    </head>
+    <body>
+        
+    <div id="discretebarchart"><svg style="width:1800px;height:800px;"></svg></div>
+
+
+    <script>
+
+
+
+                data_discretebarchart=[{"values": [{"y": 58398, "x": "32* - PROPERTY DAMAGE ACCIDENT"}, {"y": 56162, "x": "19* - CRIMES AGAINST THE PUBLIC"}, {"y": 47713, "x": "06* - LARCENY"}, {"y": 35268, "x": "35* - MISC. CRIMES AGAINST PROPERTY"}, {"y": 31920, "x": "29* - FOUND PERSON/PROPERTY"}, {"y": 29921, "x": "08* - SIMPLE ASSAULT"}, {"y": 27280, "x": "23* - DRIVING LAWS"}, {"y": 20647, "x": "24* - MOTOR VEHICLE LAWS"}, {"y": 20385, "x": "51* - MISC. MANAGEMENT INFO."}, {"y": 19070, "x": "39* - ANIMAL COMPLAINT"}, {"y": 18862, "x": "16* - DRUG OFFENSES"}, {"y": 15188, "x": "31* - PERSONAL INJURY ACCIDENT"}, {"y": 13841, "x": "28* - MISSING PERSON/PROPERTY"}, {"y": 13613, "x": "07* - MOTOR VEHICLE THEFT"}, {"y": 12973, "x": "18* - PUBLIC DRUNKENNESS"}, {"y": 12487, "x": "05* - BURGLARY"}, {"y": 9753, "x": "04* - AGGRAVATED ASSAULT"}, {"y": 9285, "x": "44* - MISC. WANTS"}, {"y": 8429, "x": "34* - OTHER ACCIDENT"}, {"y": 8163, "x": "55* - REPORT-RELATED"}, {"y": 7009, "x": "52* - SHOTS FIRED"}, {"y": 6840, "x": "03* - ROBBERY"}, {"y": 5045, "x": "26* - JUDICIAL OFFENSES"}, {"y": 4089, "x": "25* - CITY ORDINANCES"}, {"y": 3659, "x": "46* - JUVENILE-RELATED"}, {"y": 3627, "x": "43* - MENTAL CASE"}, {"y": 3467, "x": "37* - FIRE-RELATED"}, {"y": 2415, "x": "20* - RADIO SIGNAL"}, {"y": 2062, "x": "42* - CARE FOR SICK"}, {"y": 1978, "x": "22* - DRUNK DRIVING"}, {"y": 1611, "x": "12* - WEAPONS OFFENSES"}, {"y": 1299, "x": "41* - SUDDEN DEATH"}, {"y": 1194, "x": "11* - STOLEN PROPERTY"}, {"y": 1164, "x": "10* - FRAUD/EMBEZZLEMENT/EXTORTION"}, {"y": 1014, "x": "09* - FORGERY/COUNTERFEITING"}, {"y": 914, "x": "15* - FAMILY OFFENSES"}, {"y": 899, "x": "13* - PROSTITUTION"}, {"y": 779, "x": "53* - LANDLORD-TENANT"}, {"y": 773, "x": "40* - SUICIDE"}, {"y": 688, "x": "17* - LIQUOR LAWS"}, {"y": 675, "x": "33* - NON-INVOLVED ACCIDENT"}, {"y": 311, "x": "01* - HOMICIDE"}, {"y": 143, "x": "5211 - SHOTS FIRED UNCONFIRMED"}, {"y": 83, "x": "30* - FATAL ACCIDENT"}, {"y": 74, "x": "38* - MISC. CRIMES AGAINST PERSON"}, {"y": 60, "x": "5210 - SHOTS FIRED CONFIRMED"}, {"y": 36, "x": "21* - GAMBLING"}, {"y": 33, "x": "49* - SHOOTING"}, {"y": 5, "x": "36* - FEDERAL OFFENSES"}], "key": "Serie 1", "yAxis": "1"}];
+
+
+            nv.addGraph(function() {
+        var chart = nv.models.discreteBarChart();
+
+        chart.margin({top: 40, right: 60, bottom: 200, left: 60});
+
+        var datum = data_discretebarchart;
+
+
+
+                    chart.yAxis
+                .tickFormat(d3.format(',.0f'));
+
+    
+    
+
+        
+
+
+
+            d3.select('#discretebarchart svg')
+            .datum(datum)
+            .transition().duration(500)
+            .attr('width', 1800)
+            .attr('height', 800)
+            .call(chart);
+
+    
+        });
+
+
+
+    </script>
+
+    </body>
+</html>
